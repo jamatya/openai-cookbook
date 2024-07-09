@@ -28,3 +28,21 @@ If you'd like to contribute new content, make sure to read through our [contribu
 The contents of this repo are automatically rendered into [cookbook.openai.com](https://cookbook.openai.com) based on [registry.yaml](/registry.yaml).
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=468576060&machine=basicLinux32gb&location=EastUs)
+
+## Developer Notes
+[[ LiveDoc ]]
+The OpenAI Cookbook provides examples and guides for using OpenAI's API and tools. It includes code samples, best practices, and tips for building applications with OpenAI models. The repository is designed to help developers understand and leverage OpenAI's offerings effectively.
+
+[[ LiveDoc: Dependency ]]
+Dependencies specified in `requirements.txt`:
+  - **openai**: OpenAI's official Python client library.
+  - **numpy**: For numerical operations.
+  - **pandas**: For data manipulation and analysis.
+  - **matplotlib**: For plotting and visualization.
+  - **jupyter**: For running Jupyter notebooks.
+    
+[[ LiveDoc: Refactor ]]
+No information on refactoring
+
+[[ LiveDoc: Deprecated ]]
+No information on deprecated functions
